@@ -1,0 +1,3 @@
+/media/andre/98665C09665BE712/Cinvestav/Cursos Sep-Dic/HPCI/Proyectos/Matrix_Merge_Sort_Memory/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/andre/98665C09665BE712/Cinvestav/Cursos Sep-Dic/HPCI/Proyectos/Matrix_Merge_Sort_Memory/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/andre/98665C09665BE712/Cinvestav/Cursos Sep-Dic/HPCI/Proyectos/Matrix_Merge_Sort_Memory/cmake-build-debug/CMakeFiles/Matrix_Merge_Sort_Memory.dir

@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/andre/98665C09665BE712/Cinvestav/Cursos Sep-Dic/HPCI/Proyectos/Matrix_Merge_Sort_Memory/Utils.h
+vector
+-
+iostream
+-
+algorithm
+-
+iterator
+-
+ios
+-
+fstream
+-
+sstream
+-
+thread
+-
+atomic
+-
+mutex
+-
+filesystem
+-
+queue
+-
+
+/media/andre/98665C09665BE712/Cinvestav/Cursos Sep-Dic/HPCI/Proyectos/Matrix_Merge_Sort_Memory/main.cpp
+iostream
+-
+vector
+-
+Utils.h
+/media/andre/98665C09665BE712/Cinvestav/Cursos Sep-Dic/HPCI/Proyectos/Matrix_Merge_Sort_Memory/Utils.h
+

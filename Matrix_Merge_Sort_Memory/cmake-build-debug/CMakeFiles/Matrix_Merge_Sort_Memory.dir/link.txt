@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Matrix_Merge_Sort_Memory.dir/main.cpp.o -o Matrix_Merge_Sort_Memory  -pthread 

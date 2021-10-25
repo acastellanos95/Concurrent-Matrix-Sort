@@ -1,0 +1,6 @@
+C:\Windows\system32\wsl.exe --distribution Ubuntu-18.04 --exec /bin/sh -c "export CLION_IDE=TRUE && export JETBRAINS_IDE=TRUE && cd '/mnt/g/Cinvestav/Cursos Sep-Dic/HPCI/Proyectos/Matrix Merge Sort/cmake-build-debug' && /usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G 'CodeBlocks - Unix Makefiles' '/mnt/g/Cinvestav/Cursos Sep-Dic/HPCI/Proyectos/Matrix Merge Sort'"
+CMake Error at CMakeLists.txt:1 (cmake_minimum_required):
+  CMake 3.20 or higher is required.  You are running version 3.10.2
+
+
+-- Configuring incomplete, errors occurred!
